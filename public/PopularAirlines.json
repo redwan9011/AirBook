@@ -55,6 +55,12 @@
         "reviews": 170
       },
       {
+        "logo": "https://i.ibb.co/9yzYVRP/images.png",
+        "title": "Turkish Airlines",
+        "ratings": 4.9,
+        "reviews": 180
+      },
+      {
         "logo": "https://i.ibb.co/8dSmw62/download.png",
         "title": "Emirates",
         "ratings": 3.9,
@@ -65,12 +71,7 @@
         "title": "Singapore Airlines",
         "ratings": 4.4,
         "reviews": 105
-      },
-      {
-        "logo": "https://i.ibb.co/9yzYVRP/images.png",
-        "title": "Turkish Airlines",
-        "ratings": 4.9,
-        "reviews": 180
       }
+   
     ]
   

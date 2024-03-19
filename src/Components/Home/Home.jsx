@@ -2,6 +2,7 @@ import Banner from "../HomeComponents/Banner/Banner";
 import Deals from "../HomeComponents/DealsAndOffers/Deals";
 import Featured from "../HomeComponents/Featured/Featured";
 import PopularAirlines from "../HomeComponents/PopularAirlines/PopularAirlines";
+import TravelBlog from "../HomeComponents/TravelBlog/TravelBlog";
 
 
 const Home = () => {
@@ -11,6 +12,7 @@ const Home = () => {
             <Featured></Featured>
             <Deals></Deals>
             <PopularAirlines></PopularAirlines>
+            <TravelBlog ></TravelBlog>
         </div>
     );
 };
