@@ -3,17 +3,17 @@
 const Banner = () => {
     return (
         <div>
-            <div className="hero min-h-screen" style={{backgroundImage: 'url(https://i.ibb.co/VBLhSKx/65f2285bce36a62e819a38d134b77bed.png)'}}>
+            <div className="hero min-h-[70vh]" style={{backgroundImage: 'url(https://i.ibb.co/VBLhSKx/65f2285bce36a62e819a38d134b77bed.png)'}}>
   <div className="hero-overlay bg-opacity-15"></div>
   <div className="  w-full h-full">
-    <div className="flex flex-col w-5/6 mx-auto  ">
-        <h1 className="text-5xl text-white font-semibold mt-20">Welcome to <span className="text-blue-600 ">Airbook</span></h1>
+    <div className="flex flex-col max-w-6xl mx-auto  ">
+        <h1 className="text-5xl text-white font-semibold mt-20 mb-7">Welcome to <span className="text-blue-600 ">Airbook</span></h1>
 
         <div className="bg-white w-full rounded-md p-10">
             {/* buttons */}
         <div className="flex  justify-between">
            <div className=" flex gap-4">
-           <button>One way</button>
+           <button className="">One way</button>
             <button>Round Trip</button>
            </div>
            <div className=" flex gap-4">
