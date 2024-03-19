@@ -10,8 +10,8 @@ const PopularAirlines = () => {
     }, [])
    
     return (
-        <div className="my-16">
-            <h1>Popular Airlines</h1>
+        <div className="my-16 max-w-6xl mx-auto">
+            <h1 className=" my-8 text-3xl font-bold">Popular Airlines</h1>
            <div className="grid grid-cols-4 gap-4">
          {
             airlines.map( (airline, i ) => 

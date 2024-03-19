@@ -18,8 +18,8 @@ export default function TravelBlog() {
 
 
   return (
-   <div>
-    <h1>Travel Blog</h1>
+   <div className='max-w-6xl mx-auto'>
+    <h1 className=" my-8 text-3xl font-bold">Travel Blog</h1>
      <div className=' pb-16 h-full'>
        
        <Swiper
